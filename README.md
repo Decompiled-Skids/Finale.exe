@@ -1,7 +1,7 @@
 # Finale.exe
 
 It's Compilable With MSVC++
-Didn't Tried GCC, But I Think It Won't Be Friendly With The Source.
+Didn't Tried GCC, But I Don't Think It Would Be Friendly With The Source.
 
 If You Want To Compile With Correct Settings
 Change ---
