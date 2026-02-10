@@ -5,7 +5,7 @@ Didn't Tried GCC, But I Think It Won't Be Friendly With The Source.
 
 If You Want To Compile With Correct Settings
 Change ---
-Debug | x64
+Debug | x64 --
 To ---
 Release | x86
 
